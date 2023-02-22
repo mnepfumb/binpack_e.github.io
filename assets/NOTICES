@@ -7529,11 +7529,6 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-flutter_location
-
-TODO: Add your license here.
-
---------------------------------------------------------------------------------
 flutter_secure_storage
 flutter_secure_storage_linux
 flutter_secure_storage_macos
